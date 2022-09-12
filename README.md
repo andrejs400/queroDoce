@@ -4,7 +4,7 @@
 
 Quero Doce é uma aplicação full stack web construída para a conclusão da matéria Projeto Integrador Transdisciplinar em Engenharia de Software II.
 
-A aplicação consiste em um sistema de doceria delivery, onde o cliente efetua o pedido e o entregador selicona esses pedidos para realizar a entrega.
+A aplicação consiste em um sistema de doceria delivery, onde o cliente efetua o pedido e o entregador seleciona esses pedidos para realizar a entrega.
 O administrador do sistema pode adicionar novos produtos no site da doceria.
 
 A atividade a ser realizada consiste em:
